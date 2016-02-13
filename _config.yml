@@ -2,6 +2,7 @@ name: fixitpro
 favicon: null
 layout_spectrum: 0.6501504101324826
 typography_spectrum: 0.2816987596452236
+title: fixitpro title
 cta:
   domain: null
   bucket: null
