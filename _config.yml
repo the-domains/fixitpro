@@ -1,7 +1,7 @@
 name: fixitpro
 favicon: null
-layout_spectrum: 0.6501504101324826
-typography_spectrum: 0.2816987596452236
+layout_spectrum: 1
+typography_spectrum: 0.75873
 title: fixitpro title
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5484189742710441
-  lightness: 0.2866315918508917
-  saturation: 0.5801682698074728
-  rhythmicContrast: 0.24161166767589748
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
